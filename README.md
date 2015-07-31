@@ -1,2 +1,1 @@
-# hoa
-# hòa chó chết
+thuan thu dam
