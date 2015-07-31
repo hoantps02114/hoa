@@ -1,0 +1,2 @@
+# hoa
+# hòa chó chết
